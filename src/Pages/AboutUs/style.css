@@ -1,0 +1,5 @@
+.about-img{
+    background-image: url('../../../../itour/src/global/images/hotel-1.jpg');
+    padding: 200px 0;
+    object-fit: cover;
+}

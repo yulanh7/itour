@@ -1,0 +1,16 @@
+
+@import "~slick-carousel/slick/slick.css"; 
+@import "~slick-carousel/slick/slick-theme.css";
+
+.home-slider{
+  height: 100vh;
+}
+#h-slider1{
+  background-image:  url('../../../../global/images/bg_1.jpg');
+}
+#h-slider2{
+  background-image:  url('../../../../global/images/bg_2.jpg');
+}
+#h-slider3{
+  background-image:  url('../../../../global/images/bg_3.jpg');
+}

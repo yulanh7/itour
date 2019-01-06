@@ -1,0 +1,5 @@
+.about-img{
+    background-image: url('../../../../global/images/tour-1.jpg');
+    padding: 200px 0;
+    object-fit: cover;
+}
